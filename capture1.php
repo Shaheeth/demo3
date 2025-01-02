@@ -11,7 +11,7 @@
 
 ?>
 
-<h1>Your response captured successfully</h1>
+<h1>404 - PAGE NOT FOUND </h1>
 
 <?php
 
